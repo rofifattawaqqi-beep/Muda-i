@@ -1,0 +1,10 @@
+{
+  "name": "Absensi Muda/i DPS Community",
+  "short_name": "Absensi DPS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070c18",
+  "theme_color": "#070c18",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
